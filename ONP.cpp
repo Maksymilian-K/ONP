@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<stack>
+//Poza iostream musimy dodać bibliotekę string oraz stack
 
 using namespace std;
 
